@@ -1,0 +1,21 @@
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\bin\Debug\WMIFilterTester.exe.config
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\bin\Debug\WMIFilterTester.exe
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\bin\Debug\WMIFilterTester.pdb
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.csprojResolveAssemblyReference.cache
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.Properties.Resources.resources
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.csproj.GenerateResource.Cache
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.exe
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.pdb
+c:\users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.frmMain.resources
+C:\Users\rhilton\documents\visual studio 2012\Projects\WMIFilterTester\WMIFilterTester\obj\Debug\WMIFilterTester.frmQueryEntry.resources
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\bin\Debug\WMIFilterTester.exe.config
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\bin\Debug\WMIFilterTester.exe
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\bin\Debug\WMIFilterTester.pdb
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.csprojAssemblyReference.cache
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.frmMain.resources
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.frmQueryEntry.resources
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.Properties.Resources.resources
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.csproj.GenerateResource.cache
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.csproj.CoreCompileInputs.cache
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.exe
+C:\Users\Team195\Source\Repos\WMI-Filter-Tester\WMIFilterTester\obj\Debug\WMIFilterTester.pdb
